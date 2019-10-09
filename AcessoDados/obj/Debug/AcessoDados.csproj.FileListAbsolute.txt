@@ -1,0 +1,8 @@
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\bin\Debug\Entidade.dll
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\bin\Debug\Entidade.pdb
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\logatti.FIAR\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.pdb
